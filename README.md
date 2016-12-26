@@ -1,1 +1,1 @@
-# ExpandableTextCell
+# ExpandableTextCell这个demo也是项目中遇到的问题，在单元格上添加一个UITextView，单元格和输入框的高度随着输入内容的增多或者减少而改变高度哦。这个demo不是我写的，也是我在github上下载的。贴上作者的GitHub地址：https://github.com/acerbetti/ACEExpandableTextCell
